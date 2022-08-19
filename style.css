@@ -1,0 +1,52 @@
+ body{
+    background-image:url(./Images/bgrs.jpg);
+    font-family: cursive;    /* background-image: url(./bgr3.jpg);
+   background-repeat: repeat;
+    */
+ }
+ H2{
+    color: white;
+    text-align: center;
+    margin: 10px;
+   
+ }
+ .main{
+    margin-top: 100px;
+    margin-left: 30%;
+    padding: 30px;
+    width: 40rem;
+    align-items: center;
+    
+ }
+li a{
+    color: white;
+    border: 2px solid white;
+  padding: 10px;
+  border-radius: 25px;
+} 
+li a:hover{
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 20px 50px;
+}
+h1{
+   text-align: center;
+}
+h6 {
+    margin: 10px;
+    margin-left: 55px;
+}
+img{
+    margin: 10px;
+    margin-left: 10px;
+}
+/* #header{
+   width: 100%;
+   height: 10%;
+   color: white;
+} */
+center{
+   color:white;
+   border: 5px;
+   border-radius: 2px solid black;
+}
